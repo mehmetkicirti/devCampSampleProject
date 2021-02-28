@@ -12,7 +12,7 @@ namespace ConsoleUI
         }
         private static void ProductTest()
         {
-            ProductManager productManager = new ProductManager(new EFProductDal());
+            ProductManager productManager = new ProductManager(new EFProductDal(),new CategoryManager(new EFCategoryDal()));
             var result = productManager.GetProductDetails();
             if (result.IsSuccess)
             {
