@@ -18,6 +18,10 @@ namespace Business.Concrete
             _iProductDal = productDal;
         }
 
+        //[Validate]
+        //[Transaction]
+        //[Performance]
+        //[LogAspect] => AOP ile sağlayacağımız yapı
         public IResult Add(Product product)
         {
             if (product.ProductName.Length < 2)

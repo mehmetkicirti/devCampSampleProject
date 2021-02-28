@@ -30,6 +30,9 @@ namespace WebAPI
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
+            // Autofac, Ninject, CastleWindsor => aþaðýdaki iþlemleri 3party paket ile bu IoC container yapýsýný yapar.
+            // AOP => bir metod önünde hata alanýnda veya sonunda çalýþan bir mimari 
+            // AOP => yapacaðýmýz için örnegin tüm metodlarý loglayacaðýz veya auth controlü veya cacheden veri getireceðimiz için 
             // IProduct Service isterse bu tipte bana bunun karþýlýðýný ProductManager referansýný oluþtur uygulama boyunca ayný instance veriliyor => singleton => data tutmuyorsak yap
             services.AddSingleton<IProductService, ProductManager>(); // bizim yerimize ProductControllerda referansýný oluþturucak
             // Some services are not able to be constructed => tam newlerken onunda baþka bir þeye newlendiðini gördük burada IProductDal => da EfProductDal referansýný oluþtur dememiz lazým
