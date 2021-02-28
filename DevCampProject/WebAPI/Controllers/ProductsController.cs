@@ -26,10 +26,36 @@ namespace WebAPI.Controllers
         {
             _iProductService = productService;
         }
-        [HttpGet]
-        public IDataResult<List<Product>> Get()
+        [HttpGet("getAll")]
+        public IActionResult GetAll()
         {
-            return _iProductService.GetAll();
+            // Swagger => ile dökümantasyon hazırlanır
+            var result =  _iProductService.GetAll();
+            if (result.IsSuccess)
+            {
+                return Ok(result);
+            }
+            return BadRequest(result);
+        }
+        [HttpPost("add")]
+        public IActionResult Add(Product product)
+        {
+            var result = _iProductService.Add(product);
+            if (result.IsSuccess)
+            {
+                return Ok(result);
+            }
+            else return BadRequest(result);
+        }
+        [HttpGet("getbyid/{id}")]
+        public IActionResult GetById(int id)
+        {
+            var result = _iProductService.GetById(id);
+            if (result.IsSuccess)
+            {
+                return Ok(result);
+            }
+            else return BadRequest(result);
         }
     }
 }
