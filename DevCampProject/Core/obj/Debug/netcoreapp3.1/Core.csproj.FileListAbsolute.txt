@@ -3,3 +3,7 @@ C:\Users\hp\Documents\DevCamp\devCampSampleProject\DevCampProject\Core\bin\Debug
 C:\Users\hp\Documents\DevCamp\devCampSampleProject\DevCampProject\Core\obj\Debug\netcoreapp3.1\Core.csprojAssemblyReference.cache
 C:\Users\hp\Documents\DevCamp\devCampSampleProject\DevCampProject\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
 C:\Users\hp\Documents\DevCamp\devCampSampleProject\DevCampProject\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
+C:\Users\hp\Documents\DevCamp\devCampSampleProject\DevCampProject\Core\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\hp\Documents\DevCamp\devCampSampleProject\DevCampProject\Core\obj\Debug\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\DevCamp\devCampSampleProject\DevCampProject\Core\obj\Debug\netcoreapp3.1\Core.dll
+C:\Users\hp\Documents\DevCamp\devCampSampleProject\DevCampProject\Core\obj\Debug\netcoreapp3.1\Core.pdb
