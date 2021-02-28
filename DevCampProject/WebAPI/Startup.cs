@@ -34,9 +34,9 @@ namespace WebAPI
             // AOP => bir metod önünde hata alanýnda veya sonunda çalýþan bir mimari 
             // AOP => yapacaðýmýz için örnegin tüm metodlarý loglayacaðýz veya auth controlü veya cacheden veri getireceðimiz için 
             // IProduct Service isterse bu tipte bana bunun karþýlýðýný ProductManager referansýný oluþtur uygulama boyunca ayný instance veriliyor => singleton => data tutmuyorsak yap
-            services.AddSingleton<IProductService, ProductManager>(); // bizim yerimize ProductControllerda referansýný oluþturucak
+            //services.AddSingleton<IProductService, ProductManager>(); // bizim yerimize ProductControllerda referansýný oluþturucak
             // Some services are not able to be constructed => tam newlerken onunda baþka bir þeye newlendiðini gördük burada IProductDal => da EfProductDal referansýný oluþtur dememiz lazým
-            services.AddSingleton<IProductDal, EFProductDal>();
+            //services.AddSingleton<IProductDal, EFProductDal>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

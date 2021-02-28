@@ -27,8 +27,6 @@ C:\Users\hp\Documents\DevCamp\devCampSampleProject\DevCampProject\WebAPI\bin\Deb
 C:\Users\hp\Documents\DevCamp\devCampSampleProject\DevCampProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csprojAssemblyReference.cache
 C:\Users\hp\Documents\DevCamp\devCampSampleProject\DevCampProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfoInputs.cache
 C:\Users\hp\Documents\DevCamp\devCampSampleProject\DevCampProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfo.cs
-C:\Users\hp\Documents\DevCamp\devCampSampleProject\DevCampProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CoreCompileInputs.cache
-C:\Users\hp\Documents\DevCamp\devCampSampleProject\DevCampProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\hp\Documents\DevCamp\devCampSampleProject\DevCampProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.RazorTargetAssemblyInfo.cache
 C:\Users\hp\Documents\DevCamp\devCampSampleProject\DevCampProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CopyComplete
 C:\Users\hp\Documents\DevCamp\devCampSampleProject\DevCampProject\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.Manifest.cache
@@ -67,3 +65,6 @@ C:\Users\hp\Documents\DevCamp\devCampSampleProject\DevCampProject\WebAPI\bin\Deb
 C:\Users\hp\Documents\DevCamp\devCampSampleProject\DevCampProject\WebAPI\bin\Debug\netcoreapp3.1\DataAccess.dll
 C:\Users\hp\Documents\DevCamp\devCampSampleProject\DevCampProject\WebAPI\bin\Debug\netcoreapp3.1\Business.pdb
 C:\Users\hp\Documents\DevCamp\devCampSampleProject\DevCampProject\WebAPI\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\hp\Documents\DevCamp\devCampSampleProject\DevCampProject\WebAPI\bin\Debug\netcoreapp3.1\Autofac.dll
+C:\Users\hp\Documents\DevCamp\devCampSampleProject\DevCampProject\WebAPI\bin\Debug\netcoreapp3.1\Autofac.Extras.DynamicProxy.dll
+C:\Users\hp\Documents\DevCamp\devCampSampleProject\DevCampProject\WebAPI\bin\Debug\netcoreapp3.1\Castle.Core.dll
