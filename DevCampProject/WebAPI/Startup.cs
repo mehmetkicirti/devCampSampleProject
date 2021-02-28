@@ -2,6 +2,10 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Business.Abstract;
+using Business.Concrete;
+using DataAccess.Abstract;
+using DataAccess.Concrete.EntityFramework;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -26,6 +30,10 @@ namespace WebAPI
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
+            // IProduct Service isterse bu tipte bana bunun karþýlýðýný ProductManager referansýný oluþtur uygulama boyunca ayný instance veriliyor => singleton => data tutmuyorsak yap
+            services.AddSingleton<IProductService, ProductManager>(); // bizim yerimize ProductControllerda referansýný oluþturucak
+            // Some services are not able to be constructed => tam newlerken onunda baþka bir þeye newlendiðini gördük burada IProductDal => da EfProductDal referansýný oluþtur dememiz lazým
+            services.AddSingleton<IProductDal, EFProductDal>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
