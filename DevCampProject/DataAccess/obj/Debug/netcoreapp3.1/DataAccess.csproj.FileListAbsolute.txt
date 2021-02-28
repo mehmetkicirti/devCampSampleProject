@@ -1,0 +1,8 @@
+C:\Users\hp\Documents\DevCamp\devCampSampleProject\DevCampProject\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.deps.json
+C:\Users\hp\Documents\DevCamp\devCampSampleProject\DevCampProject\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\hp\Documents\DevCamp\devCampSampleProject\DevCampProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csprojAssemblyReference.cache
+C:\Users\hp\Documents\DevCamp\devCampSampleProject\DevCampProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfoInputs.cache
+C:\Users\hp\Documents\DevCamp\devCampSampleProject\DevCampProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfo.cs
+C:\Users\hp\Documents\DevCamp\devCampSampleProject\DevCampProject\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.runtimeconfig.json
+C:\Users\hp\Documents\DevCamp\devCampSampleProject\DevCampProject\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.runtimeconfig.dev.json
+C:\Users\hp\Documents\DevCamp\devCampSampleProject\DevCampProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.genruntimeconfig.cache
