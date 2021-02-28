@@ -68,3 +68,7 @@ C:\Users\hp\Documents\DevCamp\devCampSampleProject\DevCampProject\WebAPI\bin\Deb
 C:\Users\hp\Documents\DevCamp\devCampSampleProject\DevCampProject\WebAPI\bin\Debug\netcoreapp3.1\Autofac.dll
 C:\Users\hp\Documents\DevCamp\devCampSampleProject\DevCampProject\WebAPI\bin\Debug\netcoreapp3.1\Autofac.Extras.DynamicProxy.dll
 C:\Users\hp\Documents\DevCamp\devCampSampleProject\DevCampProject\WebAPI\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\hp\Documents\DevCamp\devCampSampleProject\DevCampProject\WebAPI\bin\Debug\netcoreapp3.1\Autofac.Extensions.DependencyInjection.dll
+C:\Users\hp\Documents\DevCamp\devCampSampleProject\DevCampProject\WebAPI\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\hp\Documents\DevCamp\devCampSampleProject\DevCampProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\DevCamp\devCampSampleProject\DevCampProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cache

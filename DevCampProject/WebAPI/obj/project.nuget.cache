@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "fLFsYfGxsH2aIDSHiMjpzTuka+mxi2ICd7s8TrVV7TAe/VGSgg7GZFQZMCv7+wEzQnoTQbgeUXIadeNZhhDA4A==",
+  "dgSpecHash": "cFbDOgUE6Ulsmvf4e9kwXYHWLcpkNyYJg0n39f6ZrPvnMcBn4kgCzEjqmc9RfKChBTcWqMdpL/ru1W2rhVkwsg==",
   "success": true,
   "projectFilePath": "C:\\Users\\hp\\Documents\\DevCamp\\devCampSampleProject\\DevCampProject\\WebAPI\\WebAPI.csproj",
   "expectedPackageFiles": [
@@ -8,6 +8,7 @@
     "C:\\Users\\hp\\.nuget\\packages\\autofac.extensions.dependencyinjection\\7.1.0\\autofac.extensions.dependencyinjection.7.1.0.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\autofac.extras.dynamicproxy\\6.0.0\\autofac.extras.dynamicproxy.6.0.0.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\fluentvalidation\\9.5.1\\fluentvalidation.9.5.1.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.0.1\\microsoft.data.sqlclient.sni.runtime.2.0.1.nupkg.sha512",
